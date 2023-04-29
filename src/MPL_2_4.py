@@ -36,3 +36,5 @@ print("0 0 = {0:.10f}".format(neutron.run([0, 0])))
 print("0 1 = {0:.10f}".format(neutron.run([0, 1])))
 print("1 0 = {0:.10f}".format(neutron.run([1, 0])))
 print("1 1 = {0:.10f}".format(neutron.run([1, 1])))
+
+
